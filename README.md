@@ -12,3 +12,5 @@ This is a list contains links to articles about some technique in game programmi
 - [Understanding Steering Behaviors](https://gamedevelopment.tutsplus.com/series/understanding-steering-behaviors--gamedev-12732): steering behaviors aim to help autonomous characters move in a realistic manner, by using simple forces that are combined to produce life-like, improvisational navigation around the characters' environment.
 
 - ["Wave Collapse Function" algorithm in Processing](https://discourse.processing.org/t/wave-collapse-function-algorithm-in-processing/12983): bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics.
+
+- [Behavior trees for AI: How they work](https://www.gamedeveloper.com/programming/behavior-trees-for-ai-how-they-work): an introduction to Behavior Trees, with examples and in-depth descriptions, as well as some tips on creating powerful expressive trees.
